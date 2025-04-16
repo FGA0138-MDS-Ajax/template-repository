@@ -1,6 +1,8 @@
-# template-repository
+# template-repository - Branch DOCS
 
-Template de Repositório para a matéria de Requisitos de Software coordenado pela Professora Cristiane Ramos.
+Template de Repositório para a matéria de Métodos de Desenvolvimento de Software lecionado pelo professor Ricardo Ajax.
+
+Essa Branch de desenvolvimento "docs" deve ser mantida somente para fins de documentação, onde já se encontra uma estrutura inicial montada com MKDocs.
 
 ## Especificações Técnicas do Repositório
 
